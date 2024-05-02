@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sumit-moder
+ 👋 Hi, I’m @sumit-moder
 
 <!---
 - 👀 I’m interested in ...
